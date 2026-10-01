@@ -1,0 +1,586 @@
+{
+  "en": [
+    {
+      "id": "insight-01",
+      "title": "Start with one clear outcome",
+      "content": "Give new customers one useful task to complete in their first session. A small success makes the next step easier.",
+      "metadata": {
+        "category": "Activation",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-02",
+      "title": "Reduce the first-run form",
+      "content": "Ask only for information needed to get started. Move optional profile questions to a later moment.",
+      "metadata": {
+        "category": "Experience",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-03",
+      "title": "Show progress through setup",
+      "content": "Break setup into visible, manageable steps. Explain what is left and let people return to unfinished work.",
+      "metadata": {
+        "category": "Experience",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-04",
+      "title": "Offer a useful starting example",
+      "content": "Provide a realistic sample project so customers can explore the product before importing their own data.",
+      "metadata": {
+        "category": "Activation",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-05",
+      "title": "Measure time to first value",
+      "content": "Track the time between signup and the first meaningful outcome. Compare the journey across customer segments.",
+      "metadata": {
+        "category": "Measurement",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-06",
+      "title": "Bring help into the workflow",
+      "content": "Place short explanations beside unfamiliar controls. Keep detailed documentation available without interrupting the task.",
+      "metadata": {
+        "category": "Support",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-07",
+      "title": "Make empty states actionable",
+      "content": "Explain why a view is empty and offer a specific next step, such as adding the first project.",
+      "metadata": {
+        "category": "Experience",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-08",
+      "title": "Personalize by customer intent",
+      "content": "Ask what the customer hopes to accomplish and use that answer to suggest a relevant first task.",
+      "metadata": {
+        "category": "Activation",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-09",
+      "title": "Remove avoidable interruptions",
+      "content": "Let customers experience the core workflow before showing optional tours, announcements, or upgrade prompts.",
+      "metadata": {
+        "category": "Experience",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-10",
+      "title": "Follow up on unfinished setup",
+      "content": "Send a useful reminder that resumes the exact step where the customer stopped. Avoid generic repeated nudges.",
+      "metadata": {
+        "category": "Retention",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-11",
+      "title": "Learn from customer conversations",
+      "content": "Pair funnel data with short interviews. Ask where expectations differed from what customers experienced.",
+      "metadata": {
+        "category": "Research",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-12",
+      "title": "Test one onboarding change at a time",
+      "content": "Define a success metric before making a change. Review activation and retention together to avoid optimizing for clicks alone.",
+      "metadata": {
+        "category": "Measurement",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    }
+  ],
+  "es": [
+    {
+      "id": "insight-01",
+      "title": "Comienza con un objetivo claro",
+      "content": "Ofrece a los nuevos clientes una tarea útil para completar en su primera sesión. Un pequeño logro facilita el siguiente paso.",
+      "metadata": {
+        "category": "Activación",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-02",
+      "title": "Simplifica el formulario inicial",
+      "content": "Pide solo la información necesaria para empezar. Deja las preguntas opcionales para más adelante.",
+      "metadata": {
+        "category": "Experiencia",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-03",
+      "title": "Muestra el progreso de la configuración",
+      "content": "Divide la configuración en pasos visibles y manejables. Explica qué falta y permite retomar el trabajo.",
+      "metadata": {
+        "category": "Experiencia",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-04",
+      "title": "Ofrece un ejemplo útil",
+      "content": "Proporciona un proyecto de ejemplo realista para explorar el producto antes de importar datos propios.",
+      "metadata": {
+        "category": "Activación",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-05",
+      "title": "Mide el tiempo hasta el primer resultado",
+      "content": "Mide el tiempo entre el registro y el primer resultado significativo. Compara la experiencia entre segmentos.",
+      "metadata": {
+        "category": "Medición",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-06",
+      "title": "Integra la ayuda en el proceso",
+      "content": "Coloca explicaciones breves junto a los controles desconocidos. Mantén la documentación accesible sin interrumpir la tarea.",
+      "metadata": {
+        "category": "Soporte",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-07",
+      "title": "Haz útiles los estados vacíos",
+      "content": "Explica por qué una vista está vacía y ofrece un siguiente paso concreto, como añadir el primer proyecto.",
+      "metadata": {
+        "category": "Experiencia",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-08",
+      "title": "Personaliza según la intención",
+      "content": "Pregunta qué quiere conseguir el cliente y sugiere una primera tarea relevante.",
+      "metadata": {
+        "category": "Activación",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-09",
+      "title": "Elimina interrupciones evitables",
+      "content": "Permite probar el flujo principal antes de mostrar recorridos opcionales, anuncios u ofertas.",
+      "metadata": {
+        "category": "Experiencia",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-10",
+      "title": "Retoma la configuración pendiente",
+      "content": "Envía un recordatorio útil que permita volver al paso exacto donde se detuvo el cliente.",
+      "metadata": {
+        "category": "Retención",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-11",
+      "title": "Aprende de las conversaciones",
+      "content": "Combina los datos del embudo con entrevistas breves. Pregunta dónde la experiencia no cumplió las expectativas.",
+      "metadata": {
+        "category": "Investigación",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-12",
+      "title": "Prueba un cambio cada vez",
+      "content": "Define una métrica de éxito antes de cambiar algo. Evalúa la activación y la retención conjuntamente.",
+      "metadata": {
+        "category": "Medición",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    }
+  ],
+  "fr": [
+    {
+      "id": "insight-01",
+      "title": "Commencer par un objectif clair",
+      "content": "Proposez une tâche utile à accomplir dès la première session. Une petite réussite facilite la suite.",
+      "metadata": {
+        "category": "Activation",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-02",
+      "title": "Alléger le formulaire initial",
+      "content": "Demandez uniquement les informations nécessaires pour démarrer. Reportez les questions facultatives.",
+      "metadata": {
+        "category": "Expérience",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-03",
+      "title": "Montrer la progression",
+      "content": "Divisez la configuration en étapes visibles. Expliquez ce qui reste et permettez de reprendre plus tard.",
+      "metadata": {
+        "category": "Expérience",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-04",
+      "title": "Proposer un exemple utile",
+      "content": "Fournissez un projet réaliste pour découvrir le produit avant de charger ses propres données.",
+      "metadata": {
+        "category": "Activation",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-05",
+      "title": "Mesurer le délai avant le premier résultat",
+      "content": "Mesurez le temps entre l’inscription et le premier résultat utile. Comparez les parcours par segment.",
+      "metadata": {
+        "category": "Mesure",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-06",
+      "title": "Intégrer l’aide au parcours",
+      "content": "Placez de courtes explications près des commandes inconnues. Rendez la documentation accessible sans interrompre la tâche.",
+      "metadata": {
+        "category": "Assistance",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-07",
+      "title": "Rendre les états vides utiles",
+      "content": "Expliquez pourquoi une vue est vide et proposez une action concrète, comme créer un premier projet.",
+      "metadata": {
+        "category": "Expérience",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-08",
+      "title": "Personnaliser selon les objectifs",
+      "content": "Demandez ce que le client souhaite accomplir et suggérez une première tâche adaptée.",
+      "metadata": {
+        "category": "Activation",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-09",
+      "title": "Éviter les interruptions",
+      "content": "Laissez découvrir le parcours principal avant de présenter des visites facultatives, annonces ou offres.",
+      "metadata": {
+        "category": "Expérience",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-10",
+      "title": "Reprendre une configuration inachevée",
+      "content": "Envoyez un rappel utile permettant de reprendre exactement à l’étape interrompue.",
+      "metadata": {
+        "category": "Fidélisation",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-11",
+      "title": "Écouter les clients",
+      "content": "Complétez les données du parcours par de courts entretiens. Identifiez les écarts entre attentes et expérience.",
+      "metadata": {
+        "category": "Recherche",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-12",
+      "title": "Tester un seul changement à la fois",
+      "content": "Définissez un indicateur de réussite avant chaque changement. Analysez ensemble activation et fidélisation.",
+      "metadata": {
+        "category": "Mesure",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    }
+  ],
+  "de": [
+    {
+      "id": "insight-01",
+      "title": "Mit einem klaren Ziel beginnen",
+      "content": "Geben Sie neuen Kunden eine nützliche Aufgabe für die erste Sitzung. Ein kleiner Erfolg erleichtert den nächsten Schritt.",
+      "metadata": {
+        "category": "Aktivierung",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-02",
+      "title": "Das erste Formular verkürzen",
+      "content": "Fragen Sie nur nach Informationen, die zum Start nötig sind. Optionale Profilfragen können warten.",
+      "metadata": {
+        "category": "Erlebnis",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-03",
+      "title": "Fortschritt sichtbar machen",
+      "content": "Teilen Sie die Einrichtung in überschaubare Schritte. Zeigen Sie, was noch fehlt, und ermöglichen Sie eine spätere Fortsetzung.",
+      "metadata": {
+        "category": "Erlebnis",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-04",
+      "title": "Ein hilfreiches Beispiel anbieten",
+      "content": "Stellen Sie ein realistisches Beispielprojekt bereit, bevor Kunden ihre eigenen Daten importieren.",
+      "metadata": {
+        "category": "Aktivierung",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-05",
+      "title": "Zeit bis zum ersten Nutzen messen",
+      "content": "Messen Sie die Zeit zwischen Anmeldung und erstem sinnvollen Ergebnis. Vergleichen Sie verschiedene Kundengruppen.",
+      "metadata": {
+        "category": "Messung",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-06",
+      "title": "Hilfe in den Ablauf integrieren",
+      "content": "Platzieren Sie kurze Erklärungen neben unbekannten Bedienelementen. Halten Sie die Dokumentation leicht erreichbar.",
+      "metadata": {
+        "category": "Support",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-07",
+      "title": "Leere Ansichten hilfreich gestalten",
+      "content": "Erklären Sie, warum eine Ansicht leer ist, und bieten Sie einen konkreten nächsten Schritt an.",
+      "metadata": {
+        "category": "Erlebnis",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-08",
+      "title": "Nach Kundenabsicht personalisieren",
+      "content": "Fragen Sie nach dem Ziel des Kunden und schlagen Sie eine passende erste Aufgabe vor.",
+      "metadata": {
+        "category": "Aktivierung",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-09",
+      "title": "Vermeidbare Unterbrechungen entfernen",
+      "content": "Lassen Sie Kunden den Hauptablauf erleben, bevor Sie optionale Touren, Neuigkeiten oder Angebote zeigen.",
+      "metadata": {
+        "category": "Erlebnis",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-10",
+      "title": "Unvollständige Einrichtung fortsetzen",
+      "content": "Senden Sie eine hilfreiche Erinnerung, die genau an der unterbrochenen Stelle fortsetzt.",
+      "metadata": {
+        "category": "Bindung",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-11",
+      "title": "Aus Kundengesprächen lernen",
+      "content": "Ergänzen Sie Nutzungsdaten durch kurze Interviews. Fragen Sie nach Unterschieden zwischen Erwartung und Erfahrung.",
+      "metadata": {
+        "category": "Forschung",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    },
+    {
+      "id": "insight-12",
+      "title": "Eine Änderung nach der anderen testen",
+      "content": "Definieren Sie vor jeder Änderung eine Erfolgskennzahl. Betrachten Sie Aktivierung und Bindung gemeinsam.",
+      "metadata": {
+        "category": "Messung",
+        "tags": [
+          "onboarding",
+          "product"
+        ]
+      }
+    }
+  ]
+}

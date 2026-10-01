@@ -1,0 +1,16 @@
+{
+  "name": "prompt-workspace",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm run dev --prefix frontend",
+    "build": "npm run build --prefix frontend",
+    "test": "npm run test --prefix frontend",
+    "lint": "npm run lint --prefix frontend",
+    "install:frontend": "npm ci --prefix frontend",
+    "test:e2e": "npm run test:e2e --prefix frontend --",
+    "test:e2e:headed": "npm run test:e2e:headed --prefix frontend --",
+    "test:e2e:ui": "npm run test:e2e:ui --prefix frontend --",
+    "test:e2e:report": "npm run test:e2e:report --prefix frontend --"
+  }
+}
